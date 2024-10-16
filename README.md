@@ -12,7 +12,7 @@ Teamu is a revolutionary social productivity app designed to bring people togeth
 ### 1. Personalized Onboarding
 Teamu starts by asking users to tell us what they're passionate about. With a few taps, users can share their top passions, allowing the app to craft relevant collaboration ideas.
 
-![1_1](https://github.com/user-attachments/assets/08d1903a-9f99-437d-b89e-9228361d30f3)with <img src="[https://your-image-url.type](https://github.com/user-attachments/assets/08d1903a-9f99-437d-b89e-9228361d30f3)" width="600">![2_1](https://github.com/user-attachments/assets/af555ab8-21ce-4eca-a269-67bd31f0c494)
+![1_1](https://github.com/user-attachments/assets/08d1903a-9f99-437d-b89e-9228361d30f3)with <img src="[https://your-image-url.type](https://github.com/user-attachments/assets/08d1903a-9f99-437d-b89e-9228361d30f3)" width="100">![2_1](https://github.com/user-attachments/assets/af555ab8-21ce-4eca-a269-67bd31f0c494)
 
 
 ### 2. Explore and Share Ideas
