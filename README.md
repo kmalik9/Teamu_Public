@@ -7,35 +7,29 @@ Teamu is a revolutionary social productivity app designed to bring people togeth
 
 **Link to App Store:** [Teamu on the App Store](https://apps.apple.com/us/app/teamu/id6474907955)
 
+<img src="https://github.com/user-attachments/assets/08d1903a-9f99-437d-b89e-9228361d30f3" width="200" /> <img src="https://github.com/user-attachments/assets/af555ab8-21ce-4eca-a269-67bd31f0c494" width="200" />
+
 ## Key Features
 
 ### 1. Personalized Onboarding
 Teamu starts by asking users to tell us what they're passionate about. With a few taps, users can share their top passions, allowing the app to craft relevant collaboration ideas.
 
-<img src="https://github.com/user-attachments/assets/08d1903a-9f99-437d-b89e-9228361d30f3" width="200" /> <img src="https://github.com/user-attachments/assets/af555ab8-21ce-4eca-a269-67bd31f0c494" width="200" />
-
 
 ### 2. Explore and Share Ideas
 Users can post, explore, and upvote ideas that align with their passions. From local environmental cleanups to creative projects, Teamu serves as a platform for sharing initiatives that can bring communities together.
-
-<img src="https://github.com/user-attachments/assets/c09db31b-815d-4406-b978-cc1e5053a000" width="200" />
 
 
 ### 3. Collaborative Matching
 Swipe through collaboration ideas in your area and connect with others who share similar interests. This feature ensures that users are matched with the right people for every project.
 
-<img src="https://github.com/user-attachments/assets/9953a184-6d0f-4255-9e71-f8e186534633" width="200" />
-
 
 ### 4. AI-Guided Collaboration
 Teamu's AI assists users by recommending structured collaboration plans, roles, and milestones, making it easy to take ideas from concept to completion.
 
-![AI Collaboration](5_1.png)
 
 ### 5. Stay Involved with Local Projects
 Follow ongoing initiatives, participate in discussions, and stay updated on local happenings that interest you. Whether it's creative projects, social initiatives, or environmental efforts, Teamu ensures you're always in the loop.
 
-![Local Engagement](6_1.png)
 
 ## My Role
 
@@ -60,11 +54,6 @@ As the sole developer, designer, and product manager of Teamu, I wore many hats 
 - **Launch Campaign**: Designed and executed a digital marketing strategy, including social media promotion, influencer outreach, and campus-based guerrilla marketing.
 - **User Acquisition**: Built a pre-launch waitlist and implemented referral programs to grow Teamu’s user base from UNC, Duke, and NC State campuses.
 
-## Screenshots
-
-Here are a few more screenshots showcasing Teamu's functionality and user experience:
-
-![Screenshot](7_1.png)
 
 ## Technologies Used
 - **Frontend**: Flutter (Dart)
