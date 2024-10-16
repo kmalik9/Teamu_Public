@@ -14,6 +14,8 @@ Teamu starts by asking users to tell us what they're passionate about. With a fe
 
 ![alt|50](https://github.com/user-attachments/assets/08d1903a-9f99-437d-b89e-9228361d30f3)![2_1](https://github.com/user-attachments/assets/af555ab8-21ce-4eca-a269-67bd31f0c494)
 
+<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/user-attachments/assets/08d1903a-9f99-437d-b89e-9228361d30f3)![2_1](https://github.com/user-attachments/assets/af555ab8-21ce-4eca-a269-67bd31f0c494)" width="200" />
+
 
 ### 2. Explore and Share Ideas
 Users can post, explore, and upvote ideas that align with their passions. From local environmental cleanups to creative projects, Teamu serves as a platform for sharing initiatives that can bring communities together.
