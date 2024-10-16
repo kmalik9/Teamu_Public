@@ -24,7 +24,8 @@ Users can post, explore, and upvote ideas that align with their passions. From l
 ### 3. Collaborative Matching
 Swipe through collaboration ideas in your area and connect with others who share similar interests. This feature ensures that users are matched with the right people for every project.
 
-![Collaboration Matching](4_1.png)
+<img src="https://github.com/user-attachments/assets/9953a184-6d0f-4255-9e71-f8e186534633" width="200" />
+
 
 ### 4. AI-Guided Collaboration
 Teamu's AI assists users by recommending structured collaboration plans, roles, and milestones, making it easy to take ideas from concept to completion.
