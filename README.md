@@ -18,7 +18,8 @@ Teamu starts by asking users to tell us what they're passionate about. With a fe
 ### 2. Explore and Share Ideas
 Users can post, explore, and upvote ideas that align with their passions. From local environmental cleanups to creative projects, Teamu serves as a platform for sharing initiatives that can bring communities together.
 
-![Explore Ideas](3_1.png)
+<img src="https://github.com/user-attachments/assets/c09db31b-815d-4406-b978-cc1e5053a000" width="200" />
+
 
 ### 3. Collaborative Matching
 Swipe through collaboration ideas in your area and connect with others who share similar interests. This feature ensures that users are matched with the right people for every project.
