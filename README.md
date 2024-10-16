@@ -1,6 +1,6 @@
 # Teamu - Social Media Reimagined
 
-![Teamu Logo](1_1.png)
+![teamu_correct](https://github.com/user-attachments/assets/d383f0a0-1500-48d8-8b19-56b199de1b5d)
 
 ## Overview
 Teamu is a revolutionary social productivity app designed to bring people together through collaboration. By matching users based on their passions and talents, Teamu facilitates the creation of real, impactful projects in their communities. Whether you're a musician, a designer, or a developer, Teamu empowers users to connect with like-minded individuals to turn ideas into reality.
